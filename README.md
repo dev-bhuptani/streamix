@@ -21,4 +21,4 @@ Back-end:
 **mongoose** - to provide a schema-based solution to the app data.  
 **jsonwebtoken** - for authorizing users to access the content of the app.  
 
-Stay tuned for future updates!
+_**Stay tuned for future updates!**_
