@@ -1,0 +1,38 @@
+exports.series = [
+  {
+    title: "F.R.I.E.N.D.S",
+    seasons: 10,
+    ratings: 9,
+    releasedOn: new Date(),
+    endedOn: new Date(),
+    description: "Very good movie to watch",
+    location: "/movies/HarryPotter.mp4",
+  },
+  {
+    title: "F.R.I.E.N.D.S",
+    seasons: 10,
+    ratings: 9,
+    releasedOn: new Date(),
+    endedOn: new Date(),
+    description: "Very good movie to watch",
+    location: "/movies/HarryPotter.mp4",
+  },
+  {
+    title: "F.R.I.E.N.D.S",
+    seasons: 10,
+    ratings: 9,
+    releasedOn: new Date(),
+    endedOn: new Date(),
+    description: "Very good movie to watch",
+    location: "/movies/HarryPotter.mp4",
+  },
+  {
+    title: "F.R.I.E.N.D.S",
+    seasons: 10,
+    ratings: 9,
+    releasedOn: new Date(),
+    endedOn: new Date(),
+    description: "Very good movie to watch",
+    location: "/movies/HarryPotter.mp4",
+  },
+];

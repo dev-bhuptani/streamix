@@ -1,0 +1,30 @@
+body {
+  background-color: black;
+}
+.entertainment-cards {
+  background-color: #3f3f3f;
+  color: whitesmoke;
+  width: 18rem;
+}
+
+.card-subtitle {
+  color: wheat !important;
+  font-weight: 400 !important;
+}
+
+.entertainment-li {
+  list-style: none;
+  display: inline-block;
+  margin: 1rem;
+}
+
+label {
+  font-size: 1.5rem;
+  color: white;
+}
+
+i {
+  color: whitesmoke;
+  font-size: 3rem;
+  margin: 0.5rem;
+}
