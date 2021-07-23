@@ -19,7 +19,7 @@ const songs = require("./data/songs");
 const app = express();
 
 const MongoDB_URI =
-  "mongodb+srv://dev:dev1210@node.idgpt.mongodb.net/streamix?retryWrites=true&w=majority";
+  "MONGODB_URI";
 
 app.use(express.json());
 app.use(cors());
